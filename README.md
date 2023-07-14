@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://felipe-lima.surge.sh/
+[Link (Deploy)](https://labecommerce-felipe.surge.sh/)
 
 Labe-commerce é uma aplicação Front-end construída durante o curso da [Labenu](https://www.labenu.com.br/ "Site da Labenu").
 
@@ -11,16 +11,12 @@ Esse é o projeto de introdução aos fundamentos do React. O objetivo é que fu
 
 
 ## Layout web
+
 ![Web 1](https://github.com/felipelimars/projeto-frontendreact/blob/felipelima-projetofrontend-react/felipelima-projeto-react/src/utils/1.png)
-
 ![Web 2](https://github.com/felipelimars/projeto-frontendreact/blob/felipelima-projetofrontend-react/felipelima-projeto-react/src/utils/2.png)
-
 ![Web 3](https://github.com/felipelimars/projeto-frontendreact/blob/felipelima-projetofrontend-react/felipelima-projeto-react/src/utils/3.png)
-
 ![Web 4](https://github.com/felipelimars/projeto-frontendreact/blob/felipelima-projetofrontend-react/felipelima-projeto-react/src/utils/4.png)
-
 ![Web 5](https://github.com/felipelimars/projeto-frontendreact/blob/felipelima-projetofrontend-react/felipelima-projeto-react/src/utils/5.png)
-
 ![Web 6](https://github.com/felipelimars/projeto-frontendreact/blob/felipelima-projetofrontend-react/felipelima-projeto-react/src/utils/6.png)
 
 # Tecnologias utilizadas
@@ -52,7 +48,7 @@ Pré-requisitos: npm
 git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd ecommerce
 
 # instalar dependências
 npm install
@@ -66,4 +62,3 @@ npm start
 Felipe Lima
 
 https://www.linkedin.com/in/felipelimars
-# projeto-labecommerce
