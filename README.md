@@ -48,7 +48,7 @@ Pré-requisitos: npm
 git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto front end web
-cd ecommerce
+cd e-commerce
 
 # instalar dependências
 npm install
