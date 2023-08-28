@@ -45,10 +45,7 @@ Pré-requisitos: npm
 
 ```bash / terminal
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd e-commerce
+git clone https://github.com/felipelimars/projeto-labecommerce.git
 
 # instalar dependências
 npm install
