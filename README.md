@@ -24,10 +24,9 @@ Esse é o projeto de introdução aos fundamentos do React. O objetivo é que fu
 ## Front end
 
 - React
-- JSX
-- Componentes
-- Props
-- Estado
+- Styled Components
+- useContext
+- React Hooks
 - Tailwind
 - Fluxo de dados no React
 - Renderização de listas
